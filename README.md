@@ -37,14 +37,25 @@ The game continues until the player decides to exit.
 - **Randomization**: The computer's move is randomly selected from the options (rock, paper, scissors) using the random module.
 - **Game Logic**: The game compares the player's move and the computer's move to determine the winner based on the rules of the game.
 
-## Example of Running the Program
+## Installation and Running
 
-### Run the Program
+1. **Clone the Repository**:
+```bash
+git clone https://github.com/lavneethora/Rock_Paper_Scissors.git
+```
+
+2. **Navigate to the Project Directory**:
+```bash
+cd RockPaperScissors
+```
+
+3. **Run the Game**:
 ```bash
 python rock_paper_scissors.py
 ```
 
 ### Example Output
+
 ```bash
 Choose rock, paper, or scissors: rock
 Computer chose: scissors
